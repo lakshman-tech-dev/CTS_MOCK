@@ -1,21 +1,18 @@
+Lakshmanan S
 
-# CTS_MOCK
-CTS Mock Hackathon repository for documentation purpose &amp; tracking the progress
-=======
 # Microsoft Azure Learning Journey --- CTS Hackathon
 
-> A practical, project-focused Azure learning journey from beginner
-> fundamentals to deploying a React + FastAPI + PostgreSQL + AI/ML
-> application on Microsoft Azure.
+fundamentals to deploying a React + FastAPI + PostgreSQL + AI/ML
 
-## 🎯 Goal
+
+## Goal
 
 Build enough practical Azure knowledge to confidently deploy my
 final-year project in a secure, scalable, and maintainable way.
 
 ### Target Architecture
 
-``` text
+
                     USER
                       │
                       ▼
@@ -48,7 +45,7 @@ final-year project in a secure, scalable, and maintainable way.
 
 ------------------------------------------------------------------------
 
-## 📚 Learning Progress
+##Learning Progress
 
 ### Completed
 
@@ -726,9 +723,6 @@ architecture:
                   Insights
 ```
 
-> **Note:** Networking, storage, database configuration,
-> identity/security, AI/ML deployment, and monitoring will be covered in
-> later lessons.
 
 ------------------------------------------------------------------------
 
@@ -757,45 +751,9 @@ architecture:
 
 ------------------------------------------------------------------------
 
-# 🚀 Next Lesson
+LEARNING DOCKER AND HANDS ON
 
-## Lesson 5 --- Azure Networking
+DEPLOYING A FASTAPI IN AZURE APP SERVICE
 
-Topics:
 
-1.  What is a network?
-2.  IP address
-3.  Public IP vs Private IP
-4.  Port
-5.  Protocol
-6.  HTTP / HTTPS
-7.  DNS
-8.  Virtual Network (VNet)
-9.  Subnet
-10. Network Security Group (NSG)
-11. Basic Azure networking architecture
-12. Networking in the React + FastAPI + PostgreSQL project
-
-------------------------------------------------------------------------
-
-## 🎯 Final Learning Goal
-
-> **I can take a React + FastAPI + PostgreSQL + AI/ML application and
-> deploy it securely on Azure.**
-
-### Learning Approach
-
-This learning journey is **project-focused**.
-
-I will learn the Azure services that are directly relevant to deploying
-my application rather than trying to learn every Azure service.
-
-### Out of Scope for Now
-
--   AKS / Kubernetes
--   Terraform
--   Advanced networking
--   Azure Firewall
--   Complex microservices
--   Advanced DevOps
 
